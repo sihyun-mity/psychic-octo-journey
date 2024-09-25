@@ -1,10 +1,6 @@
-# cra-typescript-boilerplate
+# psychic-octo-journey
 
-Typescript 기반 [Create React App](https://github.com/facebook/create-react-app) 템플릿입니다.
-<br>
-styled-components, Zustand, React Query, Pretendard 및 기타 패키지를 포함하고 있습니다.
-<br>
-Visual Studio Code와 IntelliJ Idea용 사전 실행 구성이 있습니다.
+정채영 딱쾅기
 
 ---
 

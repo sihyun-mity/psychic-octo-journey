@@ -8,7 +8,9 @@ function App() {
     <HelmetProvider>
       <BrowserRouter>
         <Routes>
-          <Route path="" element={<Home />} />
+          <Route path="psychic-octo-journey/*">
+            <Route path="" element={<Home />} />
+          </Route>
         </Routes>
       </BrowserRouter>
     </HelmetProvider>

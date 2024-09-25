@@ -1,7 +1,7 @@
 {
-  "name": "cra-typescript-boilerplate",
+  "name": "psychic-octo-journey",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://sihyun-mity.github.io/psychic-octo-journey",
   "private": true,
   "engines": {
     "npm": ">=10.2.4 <11.0.0",

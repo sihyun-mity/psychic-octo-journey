@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/psychic-octo-journey/static/css/main.f076e371.css",
-    "main.js": "/psychic-octo-journey/static/js/main.747e959f.js",
+    "main.css": "/psychic-octo-journey/static/css/main.6e323970.css",
+    "main.js": "/psychic-octo-journey/static/js/main.b5d3fa95.js",
     "static/js/787.65d84476.chunk.js": "/psychic-octo-journey/static/js/787.65d84476.chunk.js",
     "static/media/PretendardVariable.subset.2.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.2.9667e13e5c71c8804d7b.woff2",
     "static/media/PretendardVariable.subset.19.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.19.3e26efb755349142f245.woff2",
@@ -36,6 +36,7 @@
     "static/media/PretendardVariable.subset.13.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.13.4004ae875c92ffa81acd.woff2",
     "static/media/PretendardVariable.subset.15.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.15.a72b09835fee78963aff.woff2",
     "static/media/PretendardVariable.subset.61.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.61.67dc289db68a28b6f4b1.woff2",
+    "static/media/kong.jpg": "/psychic-octo-journey/static/media/kong.2c4c45518f7ab4453148.jpg",
     "static/media/PretendardVariable.subset.27.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.27.f44277fe0be084a08cf5.woff2",
     "static/media/PretendardVariable.subset.35.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.35.f6542151c717369c369e.woff2",
     "static/media/PretendardVariable.subset.56.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.56.3c68c9e6b8a3950b6bf4.woff2",
@@ -95,14 +96,13 @@
     "static/media/PretendardVariable.subset.65.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.65.04f5608248ecc5398eb7.woff2",
     "static/media/PretendardVariable.subset.64.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.64.655f98243e6df944eb9d.woff2",
     "static/media/PretendardVariable.subset.66.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.66.e62b83b62a94bc3aadd3.woff2",
-    "static/media/logo.svg": "/psychic-octo-journey/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/psychic-octo-journey/index.html",
-    "main.f076e371.css.map": "/psychic-octo-journey/static/css/main.f076e371.css.map",
-    "main.747e959f.js.map": "/psychic-octo-journey/static/js/main.747e959f.js.map",
+    "main.6e323970.css.map": "/psychic-octo-journey/static/css/main.6e323970.css.map",
+    "main.b5d3fa95.js.map": "/psychic-octo-journey/static/js/main.b5d3fa95.js.map",
     "787.65d84476.chunk.js.map": "/psychic-octo-journey/static/js/787.65d84476.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f076e371.css",
-    "static/js/main.747e959f.js"
+    "static/css/main.6e323970.css",
+    "static/js/main.b5d3fa95.js"
   ]
 }

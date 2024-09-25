@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/psychic-octo-journey/static/css/main.6e323970.css",
-    "main.js": "/psychic-octo-journey/static/js/main.b5d3fa95.js",
+    "main.js": "/psychic-octo-journey/static/js/main.c90d6db9.js",
     "static/js/787.65d84476.chunk.js": "/psychic-octo-journey/static/js/787.65d84476.chunk.js",
     "static/media/PretendardVariable.subset.2.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.2.9667e13e5c71c8804d7b.woff2",
     "static/media/PretendardVariable.subset.19.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.19.3e26efb755349142f245.woff2",
@@ -98,11 +98,11 @@
     "static/media/PretendardVariable.subset.66.woff2": "/psychic-octo-journey/static/media/PretendardVariable.subset.66.e62b83b62a94bc3aadd3.woff2",
     "index.html": "/psychic-octo-journey/index.html",
     "main.6e323970.css.map": "/psychic-octo-journey/static/css/main.6e323970.css.map",
-    "main.b5d3fa95.js.map": "/psychic-octo-journey/static/js/main.b5d3fa95.js.map",
+    "main.c90d6db9.js.map": "/psychic-octo-journey/static/js/main.c90d6db9.js.map",
     "787.65d84476.chunk.js.map": "/psychic-octo-journey/static/js/787.65d84476.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e323970.css",
-    "static/js/main.b5d3fa95.js"
+    "static/js/main.c90d6db9.js"
   ]
 }

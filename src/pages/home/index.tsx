@@ -1,5 +1,5 @@
 import { useEffect, useId, useState } from 'react';
-import { Button, Container, Header, Image, Title } from '@/pages/home/index.styles';
+import { Button, Container, Counter, Header, Image, Title } from '@/pages/home/index.styles';
 import kong from '@/assets/images/kong.jpg';
 
 const Index = () => {
@@ -19,6 +19,7 @@ const Index = () => {
       {Array.from({ length: count }).map((_, i) => (
         <Image alt="" src={kong} key={`kong-${componentId}-${i}`} />
       ))}
+      <Counter>{count.toLocaleString()}쾅</Counter>
     </Container>
   );
 };

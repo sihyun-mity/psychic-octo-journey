@@ -20,6 +20,7 @@ export const Header = styled.div`
 
 export const Title = styled.h1`
   padding-top: 20px;
+  font-size: 1.6rem;
 `;
 
 export const Button = styled.button`
@@ -36,4 +37,12 @@ export const Button = styled.button`
 export const Image = styled.img`
   width: 50%;
   max-width: 200px;
+`;
+
+export const Counter = styled.span`
+  font-size: 1.2rem;
+  text-align: center;
+  margin: 8px 0;
+  font-weight: 700;
+  color: red;
 `;
